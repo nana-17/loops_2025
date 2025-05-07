@@ -9,6 +9,7 @@ fruits = ["apple", "banana", "cherry", "date"]
 # print(fruits[2])
 for fruit in fruits:
     print(fruit)
+    # i just worked with loops
 
 ;;ll;;l;;
 # Given a list of school subjects:
